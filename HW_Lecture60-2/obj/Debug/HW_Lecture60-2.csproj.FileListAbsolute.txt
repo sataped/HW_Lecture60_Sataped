@@ -1,0 +1,15 @@
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\bin\Debug\HW_Lecture60-2.exe.config
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\bin\Debug\HW_Lecture60-2.exe
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\bin\Debug\HW_Lecture60-2.pdb
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2.csprojAssemblyReference.cache
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\MainWindow.g.cs
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\App.g.cs
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2_MarkupCompile.cache
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2_MarkupCompile.lref
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\MainWindow.baml
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2.g.resources
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60_2.Properties.Resources.resources
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2.csproj.GenerateResource.cache
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2.csproj.CoreCompileInputs.cache
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2.exe
+D:\BontoDev\c#\Lecture60\HW_Lecture60-2\HW_Lecture60-2\HW_Lecture60-2\obj\Debug\HW_Lecture60-2.pdb
